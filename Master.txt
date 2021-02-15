@@ -1,4 +1,4 @@
 
-<Version 1.01>
-/data/Map012.json 
+<Version 1.02>
+/data/Map012.json https://raw.githubusercontent.com/RpgMarkerMVProyects/UpdateGames/main/Map012.json
 <End Of Version>
